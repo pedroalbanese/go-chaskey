@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/dchest/siphash"
+	"github.com/pedroalbanese/siphash"
 )
 
 var vectors8 = [64][4]uint32{
